@@ -1,4 +1,4 @@
-# Noah Milarski
+# Pedro Noah
 
 Backend Software Developer at Inteliger, specializing in software engineering and all aspects of data management, including storage, analysis, and manipulation.
 

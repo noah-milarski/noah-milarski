@@ -2,7 +2,7 @@
 
 Backend Software Developer at Inteliger, specializing in software engineering and all aspects of data management, including storage, analysis, and manipulation.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-milarski&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noah-milarski&show_icons=true&locale=en&theme=dark) ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=noah-milarski&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noah-milarski&show_icons=true&locale=en&theme=dark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-milarski&layout=compact&theme=dark) 
 
 ## Connect with Me
 

@@ -1,6 +1,6 @@
 # Noah Milarski
 
-Backend Software Developer at Inteliger with a strong focus on building efficient systems and analyzing data. Currently studying Software Engineering and Data Science to further enhance my expertise.
+Backend Software Developer at Inteliger, specializing in software engineering and all aspects of data management, including storage, analysis, and manipulation.
 
 ## Connect with Me
 

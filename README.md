@@ -3,12 +3,12 @@
 Backend Software Developer at Inteliger, specializing in software engineering and all aspects of data management, including storage, analysis, and manipulation.
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <td>
+      <td style="border: none; padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=noah-milarski&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" />
       </td>
-      <td>
+      <td style="border: none; padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-milarski&layout=compact&theme=dark" alt="Top Languages" width="400" />
       </td>
     </tr>

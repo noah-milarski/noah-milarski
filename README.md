@@ -1,6 +1,6 @@
 # Pedro Noah
 
-Backend Software Developer at Inteliger, specializing in software engineering and all aspects of data management, including storage, analysis, and manipulation.
+Backend Software Developer at Inteliger | Architecting robust systems and wielding data for storage, analysis, and manipulation
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">

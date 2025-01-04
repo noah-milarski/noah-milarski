@@ -1,6 +1,6 @@
 # Pedro Noah
 
-Backend Software Developer at Inteliger | Architecting robust systems and wielding data for storage, analysis, and manipulation
+Data Engineer at Eragon Digital | Building scalable data systems, creating innovative analytic dashboards, developing ETL pipelines, and delivering data-driven solutions for actionable insights.
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">

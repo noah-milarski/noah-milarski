@@ -1,6 +1,6 @@
 # Pedro Noah
 
-Data Engineer at Eragon Digital | Building scalable data systems, creating innovative analytic dashboards, developing ETL pipelines, and delivering data-driven solutions for actionable insights.
+Data Specialist at Eragon Digital | Building scalable data systems, creating innovative analytic dashboards, developing ETL pipelines, and delivering data-driven solutions for actionable insights.
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">
